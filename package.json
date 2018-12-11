@@ -103,6 +103,7 @@
       "Wrap"
       "ijason"
     ],
+This is stash account
     "markerPattern": "^((clos|fix|resolv)(e[sd]|ing))|^(refs?)",
     "ticketPattern": "^((Closes|Fixes) ([a-zA-Z]{2,}-)[0-9]+)|^(Refs? [^#])"
   }
